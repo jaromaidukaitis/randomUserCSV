@@ -1,0 +1,19 @@
+{
+  "name": "randomusercsv",
+  "version": "1.0.0",
+  "description": "gerador de usuarios com random User API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaromaidukaitis/randomUserCSV.git"
+  },
+  "author": "Jarom A. Aidukaitis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaromaidukaitis/randomUserCSV/issues"
+  },
+  "homepage": "https://github.com/jaromaidukaitis/randomUserCSV#readme"
+}
